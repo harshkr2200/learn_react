@@ -1,0 +1,28 @@
+{
+  "name": "learnreact",
+  "version": "1.0.0",
+  "description": "this is my learning project here ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshkr2200/learn_react.git"
+  },
+  "keywords": [
+    "react",
+    "learn",
+    "react",
+    "js"
+  ],
+  "author": "harsh kr singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshkr2200/learn_react/issues"
+  },
+  "homepage": "https://github.com/harshkr2200/learn_react#readme",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
