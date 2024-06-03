@@ -23,6 +23,11 @@
   },
   "homepage": "https://github.com/harshkr2200/learn_react#readme",
   "dependencies": {
-    "parcel": "^2.12.0"
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
   }
 }
